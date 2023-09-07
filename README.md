@@ -12,7 +12,7 @@
 
 ### Week 2
 
--> [Python_Numpy_Vectorization](https://github.com/defnebusecelik/DeepLearning.AI-Programs/blob/main/Supervised%20Machine%20Learning/C1_W2_Lab_Python_Numpy_Vectorization.ipynb)
+-> [Python Numpy Vectorization](https://github.com/defnebusecelik/DeepLearning.AI-Programs/blob/main/Supervised%20Machine%20Learning/C1_W2_Lab_Python_Numpy_Vectorization.ipynb)
 
 -> [Multiple Variable Linear Regression](https://github.com/defnebusecelik/DeepLearning.AI-Programs/blob/main/Supervised%20Machine%20Learning/C1_W2_Lab_Multiple_Variable.ipynb)
 
