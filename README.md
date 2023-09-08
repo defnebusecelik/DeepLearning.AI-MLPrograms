@@ -25,3 +25,23 @@
 -> [Practice Lab: Linear Regression](https://github.com/defnebusecelik/DeepLearning.AI-Programs/blob/main/Supervised%20Machine%20Learning/C1_W2_Linear_Regression%20(1).ipynb)
 
 ### Week 3
+
+-> [Classification](https://github.com/defnebusecelik/DeepLearning.AI-Programs/blob/main/Supervised%20Machine%20Learning/C1_W3_Lab_Classification.ipynb)
+
+-> [Sigmoid Function](https://github.com/defnebusecelik/DeepLearning.AI-Programs/blob/main/Supervised%20Machine%20Learning/C1_W3_Lab_Sigmoid_function.ipynb)
+
+-> [Decision Boundary](https://github.com/defnebusecelik/DeepLearning.AI-Programs/blob/main/Supervised%20Machine%20Learning/C1_W3_Lab_Decision_Boundary.ipynb)
+
+-> [Logistic Loss](https://github.com/defnebusecelik/DeepLearning.AI-Programs/blob/main/Supervised%20Machine%20Learning/C1_W3_Lab_LogisticLoss.ipynb)
+
+-> [Cost Function for Logistic Regression](https://github.com/defnebusecelik/DeepLearning.AI-Programs/blob/main/Supervised%20Machine%20Learning/C1_W3_Lab_Cost_Function.ipynb)
+
+-> [Logistic Regression using Scikit-Learn](https://github.com/defnebusecelik/DeepLearning.AI-Programs/blob/main/Supervised%20Machine%20Learning/C1_W3_Lab_Scikit_Learn.ipynb)
+
+-> [Overfitting](https://github.com/defnebusecelik/DeepLearning.AI-Programs/blob/main/Supervised%20Machine%20Learning/C1_W3_Lab_Overfitting.ipynb)
+
+-> [Regularized Cost and Gradient](https://github.com/defnebusecelik/DeepLearning.AI-Programs/blob/main/Supervised%20Machine%20Learning/C1_W3_Lab_Regularization.ipynb)
+
+-> [Practice Lab: Logistic Regression](https://github.com/defnebusecelik/DeepLearning.AI-Programs/blob/main/Supervised%20Machine%20Learning/C1_W3_Logistic_Regression.ipynb)
+
+
