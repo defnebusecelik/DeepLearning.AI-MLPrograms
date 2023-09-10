@@ -46,3 +46,11 @@
 
 ## 2- Unsupervised Machine Learning
 
+### Week 1
+
+-> [Practice Lab: K-means Clustering](https://github.com/defnebusecelik/DeepLearning.AI-Programs/blob/main/Unsupervised%20Machine%20Learning/C3_W1_KMeans_Assignment.ipynb)
+
+-> [Practice Lab: Anomaly Detection](https://github.com/defnebusecelik/DeepLearning.AI-Programs/blob/main/Unsupervised%20Machine%20Learning/C3_W1_Anomaly_Detection.ipynb)
+
+### Week 2
+
