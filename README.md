@@ -1,4 +1,4 @@
-# DeepLearning.AI-Programs
+# DeepLearning.AI-MLPrograms
 
 ## 1- Supervised Machine Learning
 
